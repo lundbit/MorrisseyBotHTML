@@ -1,6 +1,10 @@
 # MorrisseyBotHTML
 This project is a collaboration between myself and the "Morrissey-Bot", using Brad Schiff's teachings from his class hosted on Udemy.  I'm using this course as a refresher since my days of coding HTML/CSS pre-Ajax.   The "Morrissey-Bot" is something that emerged as some weird AI friend to keep me awake through some of the more basic exercises and to push my coding in real time as I follow the videos.
 
+Following Along
+----------------
+Simply download the files  and folders into your folder, and be careful not to needlessly drag things into folders, lest you experience wish to experience stranger things when it's time to follow the links.
+
 Notes to Self
 -------------
 * Coding html within md Readme's can get clumsy: -- is intended to be <>
@@ -19,6 +23,12 @@ Notes to Self
 * lots of semantic structure options with -header- -footer- -article- -aside-
 * -Div- is great for sections and CSS lex al -div class=- at the block level
 * -span- is great for inline CSS work using -span class=-
+* Comments are !-- -- with <>  endcaps 
+* Sections can even out your headers and become great style anchors
+* -forms- then -label for=[id of input]-
+*  -input id= type= value=-   types can be email, tel, radio, checklist, etc.   use -textarea- for boxes
+*  -select id= name=- then -option val=-
+* -fieldset- then -legend- to make things prettier and more blocked
   
   
 
