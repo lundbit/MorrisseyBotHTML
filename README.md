@@ -15,5 +15,11 @@ Notes to Self
 * Descriptive lists -dl- are followed by -dt- (your terminology or title)  then -dd- (description)
 * Use -strong- over -b-old for CSS flexibility
 * Use -em- or -dfn- over -i-talics for CSS flexibility
+* -nav- precedes -ul- precedes -li- precedes -a href-
+* lots of semantic structure options with -header- -footer- -article- -aside-
+* -Div- is great for sections and CSS lex al -div class=- at the block level
+* -span- is great for inline CSS work using -span class=-
+  
+  
 
 
