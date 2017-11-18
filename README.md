@@ -3,7 +3,7 @@ This project is a collaboration between myself and the "Morrissey-Bot", using Br
 
 Following Along
 ----------------
-Simply download the files  and folders into your folder, and be careful not to needlessly drag things into folders, lest you experience wish to experience stranger things when it's time to follow the links.
+Simply download the files  and folders into your folder, and be careful not to needlessly drag things into folders, lest you experience wish to experience stranger things when it's time to follow the links.  The cat .jpg is inaccessible as it belongs in a folder a level higher than the base directory, and I'll fix in my next update.
 
 HTML Notes to Self
 ------------------
