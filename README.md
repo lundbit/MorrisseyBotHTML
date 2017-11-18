@@ -29,6 +29,7 @@ Notes to Self
 *  -input id= type= value=-   types can be email, tel, radio, checklist, etc.   use -textarea- for boxes
 *  -select id= name=- then -option val=-
 * -fieldset- then -legend- to make things prettier and more blocked
+* tables are -table- -thead- [-tr- -th- for each key] then -tbody- [-tr- -td-] -tfoot-
   
   
 
