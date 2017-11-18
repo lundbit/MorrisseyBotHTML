@@ -30,6 +30,7 @@ HTML Notes to Self
 *  -select id= name=- then -option val=-
 * -fieldset- then -legend- to make things prettier and more blocked
 * tables are -table- -thead- [-tr- -th- for each key] then -tbody- [-tr- -td-] -tfoot-
+*  Never use tables (oh wow I remember now) to force your layout
   
   
 
