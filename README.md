@@ -5,8 +5,8 @@ Following Along
 ----------------
 Simply download the files  and folders into your folder, and be careful not to needlessly drag things into folders, lest you experience wish to experience stranger things when it's time to follow the links.
 
-Notes to Self
--------------
+HTML Notes to Self
+------------------
 * Coding html within md Readme's can get clumsy: -- is intended to be <>
 * Start with -!DOCTYPE html-, as it is useful for bringing older browsers into the fold
 * The -ul- element is for unordered lists and produces bullets and -li- produces numberical lists
